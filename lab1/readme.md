@@ -26,3 +26,4 @@ Switch(config-if)#no shutdown
 
 line VTY 0 5
 
+![](https://github.com/iEvkaa/otus/blob/main/lab1/images/lab1-3.png)
